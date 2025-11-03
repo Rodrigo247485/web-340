@@ -3,11 +3,11 @@
  * Date:11/1/2025
  * File Name:recipes.js
  * Description:
-*/
+ */
 
 // Define the createRecipe function
 function createRecipe(ingredients) {
- // TODO: Implement this function
+  // TODO: Implement this function
   return `Recipe created with ingredients: ${ingredients.join(", ")}`;
 }
 
