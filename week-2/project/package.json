@@ -1,0 +1,12 @@
+{
+  "name": "recipe-program",
+  "version": "1.0.0",
+  "description": "Simple Node.js recipe program",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node tester.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
